@@ -16,6 +16,27 @@ html{
     place-items: center;
 }
 
+.container.dark{
+    background-color: #262626;
+}
+
+.container.dark.card{
+    background-color: #353535;
+}
+
+.container.dark.card-left{
+    color: #ccc;
+}
+
+.container.dark.toggle{
+    background-color: #464646;
+}
+
+.containdr.dark.toggle i{
+    background-color: #ddd;
+
+}
+
 .toggle{
     width: 6rem;
     height: 6rem;
@@ -44,6 +65,8 @@ html{
     box-shadow: 1rem 1rem 3rem rgba(0, 0, 0, 0.4);
 
 }
+
+
 
 
 .card-map{
