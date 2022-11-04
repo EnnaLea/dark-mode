@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Quicksand, sans-serif;
+}
+
+
+
+.card-map{
+    width: 35rem;
+}
+
+.card-chip{
+    width: 6rem;
+}
